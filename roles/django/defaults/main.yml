@@ -22,4 +22,4 @@ system_packages:
   - tk8.6-dev
 
 repo_version: master
-django_settings: imagersite.imagersite.settings
+django_settings: djaango_imager.settings
